@@ -1,0 +1,15 @@
+## Compilador Multi-lenguaje ejecutado desde la terminal. cuyo objeivo sea compilar
+## diferentes tipos de aplicaciones derivadas de lenguajes como java, C, C++, etc... desde
+## la terminal, dando como resultado la ejecucion de este, si el programa se ejecute o
+## sea hecho para ejecutarse en un interprete de comandos, lo haga de manera cómoda o si
+## este tenga que ejecutarse desde una ventana, la terminal tenga la capacidad de seguir
+## ejecutandose en segundo plano, dando resultados de la ejecución de dicho programa.
+
+## Fases de ejecución:
+## - Analisis de distribucion, soporte para Arch, Ubuntu, CentOS. (por el momento).
+## - Verificacion de paquetes compiladores necesarios: java, g++. gcc. (por el momento).
+## - Instalacion de paquetes compiladores faltantes (opcional).
+## - Inicializacion del programa (como pre-requisito se necesita de la ejecucion del 
+##   fichero de configuración).
+
+## Creado por: Cristian A. Castillo M.
